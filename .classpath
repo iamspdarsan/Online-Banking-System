@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/DARSAN/Downloads/Compressed/UCanAccess-5.0.1.bin/UCanAccess-5.0.1.bin/ucanaccess-5.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/DARSAN/Downloads/Compressed/UCanAccess-5.0.1.bin/UCanAccess-5.0.1.bin/lib/commons-lang3-3.8.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/DARSAN/Downloads/Compressed/UCanAccess-5.0.1.bin/UCanAccess-5.0.1.bin/lib/commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/DARSAN/Downloads/Compressed/UCanAccess-5.0.1.bin/UCanAccess-5.0.1.bin/lib/hsqldb-2.5.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/DARSAN/Downloads/Compressed/UCanAccess-5.0.1.bin/UCanAccess-5.0.1.bin/lib/jackcess-3.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
