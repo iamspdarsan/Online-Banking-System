@@ -145,7 +145,7 @@ java -jar EBI.jar
 
 ## In-Action 🤺
 
-[![!Homepage of EBI app](in-action/image.png)](https://raw.githubusercontent.com/darsan-in/Online-Banking-System/in-action/EBI.mp4)
+[![!Homepage of EBI app](in-action/image.png)](https://github.com/darsan-in/Online-Banking-System/raw/main/in-action/EBI.mp4)
 
 ## License ©️
 
