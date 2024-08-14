@@ -1,50 +1,28 @@
 <div align="center">
 
-# [Title] - [short desc]
+# Excelsior Bank of India - Online Banking System
 
-<p id="intro">[This is a placeholder paragraph. Here some introductory text or describe the content that will eventually go in this section. This text is meant to give a sense of how the final content will look in the design.]
-</p>
+<p id="intro">Excelsior Bank of India is an academic project that simulates an online banking system. Developed using Java Swing, this project provides a user-friendly interface for managing various banking operations such as account management, transactions, and balance inquiries.</p>
 
 ### Supported Platforms
 
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
-[![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 
 ---
 
-[uname-holder/reponame-holder] [npm-name-holder] [wf-holder] - for test&build
-
 <p>
 
 <span>
-  <a href="https://github.com/uname-holder/reponame-holder/commits/main">
-    <img src="https://img.shields.io/github/last-commit/uname-holder/reponame-holder?display_timestamp=committer&style=for-the-badge&label=Updated%20On" alt="GitHub last commit"/>
+  <a href="https://github.com/darsan-in/Online-Banking-System/commits/main">
+    <img src="https://img.shields.io/github/last-commit/darsan-in/Online-Banking-System?display_timestamp=committer&style=for-the-badge&label=Updated%20On" alt="GitHub last commit"/>
   </a>
 </span>
 
 <span>
   <a href="">
-    <img src="https://img.shields.io/github/commit-activity/m/uname-holder/reponame-holder?style=for-the-badge&label=Commit%20Activity" alt="GitHub commit activity"/>
-  </a>
-</span>
-
-</p>
-
-<p>
-
-<span>
-  <a href="https://github.com/uname-holder/reponame-holder/actions/workflows/wf-holder.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/uname-holder/reponame-holder/wf-holder.yml?style=for-the-badge&label=Build%20Status" alt="GitHub Actions Build Status"/>
-  </a>
-</span>
-
-<span>
-  <a href="https://github.com/uname-holder/reponame-holder/actions/workflows/wf-holder.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/uname-holder/reponame-holder/wf-holder.yml?style=for-the-badge&label=Test%20Status" alt="GitHub Actions Test Status"/>
+    <img src="https://img.shields.io/github/commit-activity/m/darsan-in/Online-Banking-System?style=for-the-badge&label=Commit%20Activity" alt="GitHub commit activity"/>
   </a>
 </span>
 
@@ -56,13 +34,13 @@
 
 <span>
   <a href="LICENSE">
-    <img src="https://img.shields.io/github/license/uname-holder/reponame-holder?style=for-the-badge&label=License" alt="GitHub License"/>
+    <img src="https://img.shields.io/github/license/darsan-in/Online-Banking-System?style=for-the-badge&label=License" alt="GitHub License"/>
   </a>
 </span>
 
 <span>
-  <a href="https://github.com/uname-holder/reponame-holder/releases">
-    <img src="https://img.shields.io/github/v/release/uname-holder/reponame-holder?include_prereleases&sort=date&display_name=tag&style=for-the-badge&label=Latest%20Version" alt="GitHub Release"/>
+  <a href="https://github.com/darsan-in/Online-Banking-System/releases">
+    <img src="https://img.shields.io/github/v/release/darsan-in/Online-Banking-System?include_prereleases&sort=date&display_name=tag&style=for-the-badge&label=Latest%20Version" alt="GitHub Release"/>
   </a>
 </span>
 
@@ -71,8 +49,8 @@
 <p>
 
 <span>
-  <a href="https://www.codefactor.io/repository/github/uname-holder/reponame-holder/issues/main">
-    <img src="https://img.shields.io/codefactor/grade/github/uname-holder/reponame-holder?style=for-the-badge&label=Code%20Quality%20Grade" alt="CodeFactor Grade"/>
+  <a href="https://www.codefactor.io/repository/github/darsan-in/Online-Banking-System/issues/main">
+    <img src="https://img.shields.io/codefactor/grade/github/darsan-in/Online-Banking-System?style=for-the-badge&label=Code%20Quality%20Grade" alt="CodeFactor Grade"/>
   </a>
 </span>
 
@@ -84,21 +62,9 @@
 
 <span>
   <a href="">
-    <img src="https://img.shields.io/npm/d18m/npm-name-holder?style=for-the-badge&label=Downloads%20On%20NPM" alt="NPM Downloads"/>
+    <img src="https://img.shields.io/github/stars/darsan-in/Online-Banking-System?style=for-the-badge&label=Stars" alt="GitHub Repo stars"/>
   </a>
 </span>
-
-<span>
-  <a href="">
-    <img src="https://img.shields.io/github/stars/uname-holder/reponame-holder?style=for-the-badge&label=Stars" alt="GitHub Repo stars"/>
-  </a>
-</span>
-
-</p>
-
----
-
-<p>
 
 <span>
   <a href="https://github.com/sponsors/darsan-in">
@@ -119,26 +85,29 @@
 - [Friendly request to users](#-friendly-request-to-users)
 
 - [Installation - Step-by-Step Guide](#installation---step-by-step-guide-)
-- [Usage](#usage)
 - [In-Action](#in-action-)
 
 - [License](#license-%EF%B8%8F)
 - [Contributing to Our Project](#contributing-to-our-project-)
-- [Website](#website-)
 
 - [Contact Information](#contact-information)
-- [Credits](#credits-)
 
 ## Features and Benefits ✨
 
-- [f1]
-- [f2]
-- [fn]
+- User account management
+- Secure transaction processing
+- Balance inquiry and account statements
+- Java Swing-based graphical user interface
+- Simulated banking environment for educational purposes
+- Robust and easy-to-navigate system
 
 ## Use Cases ✅
 
-- [usecase 1]
-- [use case 2]
+- Simulating online banking operations for academic purposes
+- Demonstrating Java Swing application development
+- Managing user accounts, transactions, and balances in a controlled environment
+- Learning and practicing secure coding techniques in Java
+- Exploring GUI-based application development in Java
 
 ---
 
@@ -158,30 +127,29 @@ Thank you for being part of this journey. Your support means the world to us. �
 
 ## Installation - Step-by-Step Guide 🪜
 
-[Installation instructions here]
-
-- **Step 1:**
-- **Step 2:**
-- **Step 3:**
-- **Step 4:**
-- **Step 5:**
-
-## Usage
-
-- [purpose heading]
-  [Demonstration here]
+- **Step 1:** Clone this repository
 
 ```bash
-demo
+git clone https://github.com/darsan-in/Online-Banking-System.git
+```
+
+- **Step 2:** Set up eclipse IDE if not already.
+- **Step 3:** Open this project in eclipse IDE.
+- **Step 4:** Follow this to export app as jar output - [link](https://help.eclipse.org/latest/index.jsp?topic=%2Forg.eclipse.jdt.doc.user%2Ftasks%2Ftasks-37.htm)
+- **Step 5:** Now you can run the jar app.
+
+```bash
+cd output
+java -jar EBI.jar
 ```
 
 ## In-Action 🤺
 
-[video] or [gif] or [image]
+[![!Homepage of EBI app](in-action/image.png)](https://raw.githubusercontent.com/darsan-in/Online-Banking-System/in-action/EBI.mp4)
 
 ## License ©️
 
-This project is licensed under the [Apache License 2.0 or GNU General Public License v3.0 or MIT](LICENSE).
+This project is licensed under the [MIT](LICENSE).
 
 ## Contributing to Our Project 🤝
 
@@ -195,17 +163,9 @@ We deeply appreciate everyone who contributes or raises issues—your efforts ar
 
 Thank you for being part of this journey!
 
-## Website 🌐
-
-<a id="url" href="https://darsan.in">[https://darsan.in]</a>
-
 ## Contact Information
 
 For any questions, please reach out via hello@darsan.in or [LinkedIn](https://www.linkedin.com/in/darsan-in/).
-
-## Credits 🙏🏻
-
-[credits to lib maintainers/creators]
 
 ---
 
@@ -278,10 +238,24 @@ For any questions, please reach out via hello@darsan.in or [LinkedIn](https://ww
 #### Topics
 
 <ul id="keywords">
-
-<li>A</li>
-<li>B</li>
-<li>C</li>
-<li>D</li>
-
+<li>online banking</li>
+<li>Java Swing</li>
+<li>banking system</li>
+<li>academic project</li>
+<li>banking simulation</li>
+<li>account management</li>
+<li>secure transactions</li>
+<li>Java GUI</li>
+<li>banking software</li>
+<li>educational project</li>
+<li>user interface</li>
+<li>transaction processing</li>
+<li>balance inquiry</li>
+<li>Java application</li>
+<li>banking operations</li>
+<li>Java project</li>
+<li>GUI development</li>
+<li>bank simulation</li>
+<li>software development</li>
+<li>financial application</li>
 </ul>
